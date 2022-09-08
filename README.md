@@ -1,12 +1,12 @@
 Simple shell Project:
 
-This is an ALX collaboration project on Shell between Nnadozie Kelechi & Okubor Vivien.
+This is an ALX collaboration project on Shell between Nnadozie Kelechi & Okubo Vivien.
 
 Written with: C language Shell Betty linter General Requirement:
 
 *All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89 All files should end with a new line A README.md file, at the root of the folder of the project is mandatory Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl Shell should not have any memory leaks No more than 5 functions per file All header files should be include guarded Write a README with the description of the project
 
-Description: Nnadozie Kelechi & Okubor Vivien Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Description: Nnadozie Kelechi & Okubo Vivien Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 Installation Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
 
@@ -22,7 +22,7 @@ Included Built-Ins Our shell has support for the following built-in commands:
 
 Command Definition exit [n] Exit the shell, with an optional exit status, n. env Print the environment. setenv [var][value] Set an environment variable and value. If the variable exists, the value will be updated. unsetenv [var] Remove an environment variable. cd [dir] Change the directory. help [built-in] Read documentation for a built-in. Credits:
 
-All code written by Nnadozie Kelechi & Okubor Vivien.
+All code written by Nnadozie Kelechi & Okubo Vivien.
 
 Authors 👤 KayorKaly 👤 TecIvy
 
